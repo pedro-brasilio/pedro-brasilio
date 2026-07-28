@@ -5,23 +5,12 @@
 Me chamo Pedro Luciano Brasilio, tenho 22 anos e sou de São Paulo.
 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIP. Sou apaixonado por tecnologia, programação, desenvolvimento de software, inteligência artificial e automação. Compartilho meus projetos e estudos através do meu GitHub e também minhas experiências e trajetória profissional no Linkedin "[Pedro Brasilio](https://www.linkedin.com/in/pedro-brasilio-08604841b/)". 
 
-<p align="left">
-
-<a href="https://github.com/pedro-brasilio?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/pedro-brasilio?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/pedro-brasilio?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/pedro-brasilio?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+<div> 
+ <a href="https://instagram.com/sep_pedroo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/ninho360brp" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/pedro-brasilio-08604841b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
 ---
 
