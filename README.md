@@ -117,7 +117,6 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIP. Sou a
 <img 
       align="left" 
       alt="GitHub Stats" 
-      width="467" 
       height="195" 
       style="padding-right: 10px;"
       src="https://github-stats-extended.vercel.app/api?username=pedro-brasilio&rank_icon=github&custom_title=Minhas%20estat%C3%A1ticas%20do%20GitHub&show_icons=true&theme=dracula" 
@@ -127,7 +126,6 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIP. Sou a
 <img 
       align="left" 
       alt="GitHub Stats" 
-      width="354" 
       height="195" 
       style="padding-right: 10px;"
       src="https://github-stats-extended.vercel.app/api/top-langs/?username=pedro-brasilio&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=5" 
