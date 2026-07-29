@@ -107,7 +107,7 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIP. Sou a
 
 ### 📊 Estatísticas
 
-<img align="left" alt="GitHub Stats" height="195" style="padding-right: 10px;" src="https://github-readme-stats-one-tau-64.vercel.app/api?username=pedro-brasilio&rank_icon=github&custom_title=Minhas%20estat%C3%ADsticas%20do%20GitHub&show_icons=true&theme=dracula&count_private=true&v=2" />
+<img align="left" alt="GitHub Stats" height="195" style="padding-right: 10px;" src="https://github-readme-stats-one-tau-64.vercel.app/api?username=pedro-brasilio&rank_icon=github&custom_title=Minhas%20estat%C3%ADsticas%20do%20GitHub&show_icons=true&theme=dracula&count_private=true&v=3" />
 
 <img align="left" alt="Top Languages" height="195" src="https://github-readme-stats-one-tau-64.vercel.app/api/top-langs/?username=pedro-brasilio&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=7" />
 
