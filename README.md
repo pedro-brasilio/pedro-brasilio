@@ -116,10 +116,10 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIP. Sou a
 
 ---
 
-### 🐍 Contribuições
+### 💣 Contribuições
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedro-brasilio/pedro-brasilio/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedro-brasilio/pedro-brasilio/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation do gráfico de contribuições do GitHub" src="https://raw.githubusercontent.com/pedro-brasilio/pedro-brasilio/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedro-brasilio/pedro-brasilio/output/bomberman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedro-brasilio/pedro-brasilio/output/bomberman-contribution-graph.svg" />
+  <img alt="Bomberman explodindo o gráfico de contribuições do GitHub" src="https://raw.githubusercontent.com/pedro-brasilio/pedro-brasilio/output/bomberman-contribution-graph.svg" />
 </picture>
