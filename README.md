@@ -110,3 +110,16 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIP. Sou a
 <img align="left" alt="GitHub Stats" height="195" style="padding-right: 10px;" src="https://github-readme-stats-one-tau-64.vercel.app/api?username=pedro-brasilio&rank_icon=github&custom_title=Minhas%20estat%C3%ADsticas%20do%20GitHub&show_icons=true&theme=dracula&count_private=true&v=2" />
 
 <img align="left" alt="Top Languages" height="195" src="https://github-readme-stats-one-tau-64.vercel.app/api/top-langs/?username=pedro-brasilio&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=7" />
+
+<br clear="both"/>
+<br/>
+
+---
+
+### 🐍 Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedro-brasilio/pedro-brasilio/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pedro-brasilio/pedro-brasilio/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation do gráfico de contribuições do GitHub" src="https://raw.githubusercontent.com/pedro-brasilio/pedro-brasilio/output/github-contribution-grid-snake.svg" />
+</picture>
